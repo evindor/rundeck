@@ -1,6 +1,5 @@
 rundeck
 ==============
-
 This repository contains the source for the [Rundeck](http://rundeck.org/) [docker](https://docker.io) image.
 
 # Image details
